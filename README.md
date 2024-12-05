@@ -1,3 +1,3 @@
-# About project
-This is a snake-ladder project built using c++ and OOPS concept.
+# Snake Ladder Game 
+This is a snake-ladder game built using c++ and OOPS concept.
 Currently , only 2 players can play the game.
